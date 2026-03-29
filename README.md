@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Victor! 👋
 
-Sou **desenvolvedor Full-Stack** e dono de uma **software house em Curitiba/PR** 🇧🇷. Trabalho criando soluções digitais sob demanda — de aplicativos mobile a sistemas web completos — com foco em qualidade, performance e experiência do usuário.
+Sou **desenvolvedor Full-Stack** e dono de uma **software house em London, UK** 🇬🇧. Trabalho criando soluções digitais sob demanda — de aplicativos mobile a sistemas web completos — com foco em qualidade, performance e experiência do usuário.
 
 Tenho experiência sólida com **React Native, React, .NET/C#, Python, Flask, TypeScript e Node.js**, e estou sempre buscando evoluir e entregar projetos que fazem a diferença.
 
