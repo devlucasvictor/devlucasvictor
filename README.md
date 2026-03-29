@@ -27,10 +27,9 @@ Tenho experiência sólida com **React Native, React, .NET/C#, Python, Flask, Ty
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucasvictor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasvictor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=devlucasvictor&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasvictor&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlucasvictor&theme=tokyonight"/>
 
 </div>
 
